@@ -5,9 +5,6 @@ import curses
 from curses import wrapper
 import numpy as np
 import math as mat
-import time
-
-
 student=[]
 course=[]
 numcredit=[]
